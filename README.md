@@ -1,11 +1,11 @@
 # Exotic Option Pricing Engine (Monte Carlo & Python)
 
-This project, developed for the M.Sc. in Quantitative Banking and Finance, builds a Python-based Monte Carlo engine to price complex, path-dependent exotic options.
+This project, developed for my M.Sc. in Quantitative Banking and Finance, builds a Python-based Monte Carlo engine to price complex, path-dependent exotic options.
 
 ---
 ### 📄 Key Project Documents
-* **[View the Jupyter Notebook (Main Code)](Exotic_Options.ipynb)**
-* **[View the Final Assignment (PDF)](docs/HW_03_exercises.pdf)**
+* **[View the Jupyter Notebook (Main Code)](HW_03_exercises.ipynb)**
+* **[View the Final Assignment (PDF)](docs/HW_03_exercises_pdf.pdf)**
 ---
 
 ## Project Objectives & Features
